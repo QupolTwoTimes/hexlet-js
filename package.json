@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Мой первый проект на Хекслете",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -14,7 +15,10 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/QupolTwoTimes/hexlet-js/issues",
-    "электронная почта" : "ilya.v-i-n-o@yandex.ru"
+    "электронная почта": "ilya.v-i-n-o@yandex.ru"
   },
-  "homepage": "https://github.com/QupolTwoTimes/hexlet-js#readme"
+  "homepage": "https://github.com/QupolTwoTimes/hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
