@@ -1,0 +1,20 @@
+{
+  "name": "hexlet",
+  "version": "1.0.0",
+  "description": "Мой первый проект на Хекслете",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/QupolTwoTimes/hexlet-js.git"
+  },
+  "author": "Ilia Vinogradov <ilya.v-i-n-o@yandex.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QupolTwoTimes/hexlet-js/issues"
+    "электронная почта" : "ilya.v-i-n-o@yandex.ru"
+  },
+  "homepage": "https://github.com/QupolTwoTimes/hexlet-js#readme"
+}
